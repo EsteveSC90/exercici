@@ -1,3 +1,7 @@
 Hola, com anam?
 Molt bé, i tu?
 >>>>>>> development
+
+va bé
+
+
