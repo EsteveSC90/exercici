@@ -2,6 +2,11 @@ Hola, com anam?
 Molt bé, i tu?
 >>>>>>> development
 
+<<<<<<< HEAD
 va bé
 esteim a classe
 entorns
+=======
+
+Afegim
+conflictes
