@@ -1,3 +1,8 @@
 Hola, com anam?
 Molt bé, i tu?
 >>>>>>> development
+
+
+Afegim
+conflictes 
+
