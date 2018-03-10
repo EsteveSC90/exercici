@@ -10,3 +10,5 @@ entorns
 
 Afegim
 conflictes
+asdara
+
